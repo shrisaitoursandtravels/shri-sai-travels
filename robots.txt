@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shrisaitoursandtravels.github.io/shri-sai-travels/sitemap.xml
